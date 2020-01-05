@@ -6,8 +6,9 @@ readWrite
 --------------------------------
 
 renderFinished
-- notifies the user when a render is finished
+-notifies the user when a render is finished
 --------------------------------
 
-Timelog Tool
+timelogTool
 -Records the exact time that a user spends on each shot. It also take the idle time into account. Comes with a UI
+--------------------------------

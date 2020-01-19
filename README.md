@@ -6,13 +6,13 @@ readWrite
 --------------------------------
 
 renderFinished
-- notifies the user when a render is finished
+- notifies the user when a render is finished / UI
 --------------------------------
 
 timelogTool
-- Records the exact time that a user spends on each shot. It also take the idle time into account. Has UI
+- Records the exact time that a user spends on each shot. It also take the idle time into account / UI
 --------------------------------
 
 copyBoard
-- Sharing nodes, group nodes between users. Has UI
+- Sharing nodes, group nodes between users / UI
 --------------------------------
